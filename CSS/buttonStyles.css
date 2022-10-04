@@ -1,0 +1,24 @@
+.btn {
+width: 120px;
+height: 60px;
+border: 1px solid wheat;
+line-height: 60px;
+text-align: center;
+border-radius: 25px;
+float: left;
+margin-left: 25%;
+margin-top: 15%;
+background-color: green;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: skyblue;
+    color: ivory;
+}
+.btn a {
+    text-decoration: none !important;
+    color: black;
+}
+.btn:hover a{
+    color: white;
+}

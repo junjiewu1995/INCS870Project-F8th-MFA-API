@@ -1,0 +1,22 @@
+body{
+    font: 16px arial,'Microsoft Yahei','Hiragino Sans GB',sans-serif;
+    text-decoration: none;
+  }
+  h1{
+    margin: 0;
+    color:#3a87ad;
+    font-size: 26px;
+  }
+  .content{
+    width: 45%;
+    margin: 0 auto;
+   
+  }
+  .content >div{
+    margin-top: 200px;
+    padding: 20px;
+    background: #d9edf7;  
+    border-radius: 12px;
+    min-height: 500px;
+  }
+ 
